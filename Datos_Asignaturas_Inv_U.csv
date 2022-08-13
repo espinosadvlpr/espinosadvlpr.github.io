@@ -1,0 +1,89 @@
+name,last_name,subject,subject_grade,weight,height,age,birthdate,city,lives_with,phisical_act,sleep_hours,extra_act
+Aggi,Mingard,Algoritmos y programacion.,30,58,1.69,19,27/01/03,Tunja,brother,sport-one-two,sleep-six-hours,none-extra
+Alaine,Alfonsetto,Algoritmos y programacion,3.6,80,1.80,19,30/07/02,Tunja,alone,sport-one-two,sleep-six-hours,extra-two-hour
+Nessa,McQuirter,algoritmos y programacion,3.8,81,1.86,19,22/12/02,tunja,alone,sport-plus-four,sleep-seven-hours,extra-plusfive-hour
+Trina,Oakenfull,Algoritmos y programacion,4.0,73,1.81,21,3/01/01,Tunja,first-family,sport-one-two,sleep-six-hours,extra-two-hour
+Arlina,Kealey,Algoritmos y programacion,3.5,58,1.76,19,27/11/02,Tunja,first-family,sport-plus-four,sleep-six-hours,extra-plustwo-hour
+Leroi,Sturney,algoritmos y programacion,34,70.0,1.80,19,11/04/03,tunja,brother,sport-three-four,sleep-six-hours,extra-plustwo-hour
+Nickola,Fardo,Algoritmos y programacion ,3.5,110,1.77,19,21/02/03,Tunja,first-family,none-sport,sleep-six-hours,none-extra
+Coralyn,Cufflin,Algoritmos y Programacion,2.8,54,1.60,17,23/11/04,Samacá,first-family,sport-one-two,sleep-six-hours,extra-plusfive-hour
+Andy,Gerbel,Algoritmos y programacion,3.7,60,1.73,20,4/11/01,Tunja,brother,sport-plus-four,sleep-eight-hours,extra-one-hour
+Tanney,Clive,Algoritmos y programacion ,4.0,58,1.58,18,1/01/04,Tunja,second-family,sport-plus-four,sleep-five-hours,none-extra
+Marysa,Cockings,Algoritmos y programacion,3.0,54,1.56,36,31/03/86,Tunja,alone,none-sport,sleep-six-hours,none-extra
+Durant,Grellis,Bases de Datos II,2.5,63,1.76,19,27/08/02,Tunja,first-family,sport-one-two,sleep-four-hours,none-extra
+Gothart,Kelleher,Bases de datos ll,3.5,69,1.83,20,22/11/01,Tunja,second-family,sport-plus-four,sleep-seven-hours,extra-two-hour
+Fidelio,Drinkel,Bases de datos dos ,4.5,63,1.78,21,6/01/01,Tunja,alone,none-sport,sleep-seven-hours,extra-plustwo-hour
+Blake,Losemann,Bases de datos ll,3.5,80,1.87,21,2/11/00,Tunja,alone,none-sport,sleep-seven-hours,none-extra
+Shaylah,Callinan,Algoritmos y programacion ,4.3,56,1.77  ,17,25/01/05,Tunja ,alone,sport-three-four,sleep-five-hours,extra-two-hour
+Rafi,Crumpe,Bases de Datos II,4.2,60,1.67,24,26/11/97,Tunja,alone,none-sport,sleep-seven-hours,extra-plustwo-hour
+Theo,Bulfoy,Bases de datos 2,3,63,1.7,21,15/07/22,Tunja,alone,sport-one-two,sleep-seven-hours,extra-two-hour
+Alden,Pirnie,Bases de datos II,4.3,57,1.68,20,21/09/01,Tunja,first-family,sport-three-four,sleep-seven-hours,extra-plustwo-hour
+Brina,Rubbens,Bases datos 2,3.5,47,1.64,22,30/06/00,Tunja ,second-family,sport-one-two,sleep-six-hours,extra-plustwo-hour
+Keene,Cowern,Bases de datos 2 ,4.5,72,1.80,20,11/11/01,Tunja ,brother,sport-three-four,sleep-six-hours,extra-plustwo-hour
+Carlynn,Clover,Base de datos II,3.7,59,1.71,20,30/11/01,Tunja,alone,sport-one-two,sleep-six-hours,extra-one-hour
+Faythe,Sempill,Bases de datos II,3.7,69.5,1.71,19,14/08/02,Tunja ,first-family,sport-plus-four,sleep-five-hours,extra-plustwo-hour
+Corbett,Filip,Algoritmos y programacion I,2.5,72,1.65  ,18,12/04/04,Tunja,first-family,sport-one-two,sleep-seven-hours,extra-plustwo-hour
+Paxton,Bruty,Bases de datos II-Grupo-2,3.9,72.2,1.82,20,10/06/02,Barbosa Santander,first-family,sport-one-two,sleep-four-hours,extra-plustwo-hour
+Lizette,Brounfield,Bases 2 Grupo 2,3.4,64,1.74,22,25/02/00,Tunja,alone,none-sport,sleep-six-hours,extra-plustwo-hour
+Kelcie,Bardey,Bases de datos 2,3.7,65,1.73,24,25/06/98,Tunja,first-family,none-sport,sleep-six-hours,extra-plustwo-hour
+Myrtia,Scamal,Bases de datos 2,5.0,72,1.80,21,4/07/00,Tunja,alone,none-sport,sleep-six-hours,extra-plusfive-hour
+Chrisy,Fackney,Bases de datos II Grupo 2,3.1,82.5,1.85,20,12/08/01,Tunja,alone,none-sport,sleep-four-hours,extra-one-hour
+Roselia,Canavan,Bases de Datos II,3.1,61.3,1.83,21,28/12/00,Tunja,mom,sport-three-four,sleep-five-hours,extra-plustwo-hour
+Randolf,Toon,Bases de datos II,3.8,63.5,1.65,24,16/06/98,tunja,first-family,sport-plus-four,sleep-four-hours,extra-one-hour
+Daria,Lourens,Bases de datos 2,31,58,193,21,13/08/00,Tunja,alone,sport-one-two,sleep-four-hours,extra-one-hour
+Alexandro,Finkle,Bases de datos II,3.3,61,1.75,20,21/09/01,Tunja,mom,sport-plus-four,sleep-eight-hours,none-extra
+Nellie,Lazenby,Base de datos 2,3.2,60,1.77,22,7/08/99,Tunja,alone,sport-one-two,sleep-five-hours,extra-two-hour
+Shannon,Dering,Bases de datos,32,55,1.60,20,26/03/02,Tunja,second-first-family.,sport-one-two,sleep-five-hours,extra-two-hour
+Vida,Noraway,TGS,0.0,70,1.77,21,14/08/00,Tunja,alone,sport-three-four,sleep-seven-hours,extra-two-hour
+Mercie,O'Duilleain,Teoria general de sistemas,4.8,60,1.60,20,11/10/01,Tunja,mom,sport-three-four,sleep-six-hours,extra-one-hour
+Guthry,Fossey,TGS,4.8,65.6,1.58,20,13/05/02,Tunja,alone,sport-three-four,sleep-five-hours,extra-two-hour
+Nadine,McDell,Teoria general de Sistemas,47,60,172,19,7/03/03,Tunja,alone,none-sport,sleep-six-hours,extra-plustwo-hour
+Philis,Ginnally,ninguna,0.0,61,1.78,19,21/04/03,Duitama;Boyaca,first-family,none-sport,sleep-seven-hours,extra-two-hour
+Finlay,Hulbert,Ninguna,0.0,62,1.77,19,29/10/02,Chiquinquira,first-family,sport-one-two,sleep-five-hours,extra-two-hour
+Haleigh,Gareisr,Teoria General de Sistemas,4.5,65,1.70,19,30/07/02,Tunja,alone,sport-one-two,sleep-seven-hours,extra-plustwo-hour
+Lonee,Sommersett,TGS,4.7,60,1.70,19,29/12/02,Tunja,alone,sport-plus-four,sleep-six-hours,extra-plustwo-hour
+Sabina,Isley,TGS,4.8,76,1.78,21,17/04/01,Tunja,alone,sport-three-four,sleep-seven-hours,extra-two-hour
+Lanni,Myhill,Teoria general de sistemas,4.8,62,1.64,20,22/05/02,Tunja,first-family,sport-plus-four,sleep-five-hours,extra-plustwo-hour
+Glendon,Ramos,Teoria General de Sistemas,4.4,90,1.73,24,30/07/97,Tunja,brother,none-sport,sleep-six-hours,none-extra
+Bobbee,Goldman,Teoria General de los sistemas,4.5,53,1.63,19,22/01/03,Tunja,alone,none-sport,sleep-six-hours,extra-plustwo-hour
+Candis,Hanscome,programacion II,2.0,65,1.73  ,20,9/09/01,Tunja,mom,sport-three-four,sleep-four-hours,extra-plustwo-hour
+Tracy,Ugo,programacion II,35,76,1.77,19,15/12/02,Tunja ,first-family,sport-three-four,sleep-seven-hours,extra-one-hour
+Cathyleen,Polgreen,programacion ll,2.1,54,1.64,21,14/04/01,Tunja,first-family,sport-one-two,sleep-five-hours,extra-plustwo-hour
+Kriste,Buddleigh,programacion 2,3.7,78.0,1.65,19,17/03/03,Tunja,alone,sport-one-two,sleep-four-hours,none-extra
+Hakim,Egiloff,Programacion 2,3.7,90,1.80,24,12/02/98,Tunja,alone,sport-plus-four,sleep-six-hours,extra-plusfive-hour
+Lock,Ambrosoni,programacion II,2.3,60,1.68,23,10/05/99,Tunja,brother,sport-plus-four,sleep-five-hours,extra-plusfive-hour
+Godfree,Clelland,programacion II,2.7,55,1.76,19,15/06/03,Ventaquemada ,first-family,sport-one-two,sleep-six-hours,extra-two-hour
+Lorenza,Tillot,Programacion II,1.8,55,1.80,19,24/10/02,Tunja,brother,sport-three-four,sleep-six-hours,extra-plustwo-hour
+Samantha,Willacot,Programacion 2,3.5,55.4,1.65,19,2/06/03,Tunja,alone,sport-plus-four,sleep-six-hours,none-extra
+Henrietta,Bougen,programacion 2,3.7,55,1.76,19,3/10/02,Tunja,alone,sport-one-two,sleep-five-hours,none-extra
+Aime,Sollars,programacion II,29,60,1.73,19,23/12/02,Tunja,first-family,sport-three-four,sleep-eight-hours,extra-plusfive-hour
+Aryn,Devonport,programacion II,2.3,64.5,1.73,18,15/06/04,Tunja Boyaca,alone,sport-three-four,sleep-five-hours,extra-two-hour
+Mellisa,Ramelet,Ninguna,Ninguna,62,1.72,19,17/03/03,Tunja,first-family,sport-plus-four,sleep-seven-hours,extra-plustwo-hour
+Virginia,Hutten,Programacion 2,4.1,54,1.71,18,4/03/04,Tunja,mom,sport-one-two,sleep-six-hours,extra-plusfive-hour
+Sherilyn,Dwire,Programacion II,4.4,60,1.73,19,26/04/03,Tunja,alone,sport-one-two,sleep-seven-hours,extra-plustwo-hour
+Sidoney,Seiler,TGS,48,85,1.80,19,10/10/02,Tunja,alone,sport-plus-four,sleep-seven-hours,extra-two-hour
+Alf,Robshaw,TGS,4.5,85,1.85,20,17/07/01,Tunja,alone,sport-plus-four,sleep-eight-hours,extra-plusfive-hour
+Bendite,Molloy,No veo materias con Quevedo ,No estoy viendo materias,64,1.73,18,19/08/03,Tunja,alone,sport-plus-four,sleep-six-hours,extra-two-hour
+Hilarius,Zupa,programacion 3,3.8,55,1.65,19,9/10/02,Tunja,first-family,sport-one-two,sleep-seven-hours,extra-two-hour
+Lori,Lutwyche,programacion 2,4.3,55.5,1.70,19,15/11/02,Tunja,second-family,none-sport,sleep-six-hours,extra-plustwo-hour
+Lusa,Gritsunov,programacion 1,2.7,105,1.81,19,10/05/03,Tunja,alone,sport-one-two,sleep-five-hours,extra-plustwo-hour
+Chloette,Morby,programacion 1,2.9,47.4,1.70,17,6/08/04,Tunja,second-family,sport-one-two,sleep-six-hours,extra-plusfive-hour
+Toby,Georger,programacion I,3.1,56,1.67,18,26/02/04,Tunja,mom,none-sport,sleep-seven-hours,extra-plustwo-hour
+Alair,Keford,Programacion 1,2.4,72,1.81,19,15/06/03,Tunja,mom,sport-plus-four,sleep-six-hours,none-extra
+Quintin,Bickerdike,Programacion 1,4.0,60,1.70,19,17/04/03,Tunja,first-family,sport-three-four,sleep-eight-hours,extra-plustwo-hour
+Berthe,Scotchbourouge,programacion 1,4.4,69,1.71,18,10/11/03,Tunja,brother,sport-one-two,sleep-seven-hours,extra-plustwo-hour
+Abdel,Scopham,programacion 1,5.0,58,1.82,18,24/01/04,Tunja,first-family,sport-three-four,sleep-four-hours,extra-plusfive-hour
+Belle,Corking,programacion I,2.3,57,1.63,18,28/06/04,Tunja ,first-family,sport-three-four,sleep-six-hours,none-extra
+Cherilyn,Cragell,programacion I,3.0,72,1.85,18,30/07/03,Tunja,first-family,none-sport,sleep-seven-hours,extra-plustwo-hour
+Engelbert,Drance,programacion I,3.5,63.2,1.76,23,31/12/98,Tunja,first-family,sport-three-four,sleep-eight-hours,extra-two-hour
+Yancey,Widdison,programacion 1,4.3,54,1.59,20,01/01/00,Tunja,first-family,sport-plus-four,sleep-seven-hours,extra-two-hour
+Betsey,Headford,programacion I,2.9,70,1.75,21,21/11/00,TUNJA,first-family,sport-one-two,sleep-five-hours,extra-plustwo-hour
+Maible,Dumbar,Programacion I,3.0,85,1.87,26,23/08/22,Tunja,alone,sport-one-two,sleep-seven-hours,extra-plustwo-hour
+Raddy,Pether,programacion I,3.6,62,1.80,19,10/04/03,Paipa,first-family,none-sport,sleep-five-hours,extra-plustwo-hour
+Rozina,Jarrelt,programacion 1,3.1,70,1.74,23,11/11/98,Tunja,alone,sport-three-four,sleep-five-hours,extra-plustwo-hour
+Lamond,Eynald,programacion I,3.7,60,1.75,19,27/09/02,Paipa,mom,none-sport,sleep-five-hours,none-extra
+Gael,Duerden,programacion I,4.2,59.8,1.82,18,11/12/03,Tunja ,mom,sport-three-four,sleep-seven-hours,extra-plusfive-hour
+Sada,Burnhill,programacion 3,4.1,63,1.73,19,6/05/03,Cucuta NDS,alone,sport-three-four,sleep-six-hours,extra-plustwo-hour
+Hayward,Espinola,programacion 3,3.1,50,1.59,20,29/06/02,Tunja,first-family,sport-plus-four,sleep-six-hours,extra-plustwo-hour
+Barn,Ilyas,Programacion 3,2.9,85,1.85,20,17/07/01,Tunja,alone,sport-three-four,sleep-eight-hours,extra-plusfive-hour
+Olvan,Olufsen,programacion III,3.8,79.6,1.78,18,7/11/03,Tunja,alone,sport-plus-four,sleep-four-hours,extra-two-hour
